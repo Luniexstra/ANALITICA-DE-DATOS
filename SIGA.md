@@ -49,7 +49,9 @@ Desarrollar una plataforma web para una escuela de manejo que permita administra
 
 # **Diagrama de arquitectura “solución”**
 
-![][image1]
+![Diagrama del sistema](https://github.com/Luniexstra/ANALITICA-DE-DATOS/blob/main/Diagrama.jpeg)
+
+
 
 # **Referencias**
 
